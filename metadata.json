@@ -1,0 +1,6 @@
+{
+  "name": "Scholar Grammar High School",
+  "description": "School fee management application for Scholar Grammar High School with class dashboards, student fee tracking across months, outstanding dues, customizable funds, admin & teacher access, and printable fee slips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
